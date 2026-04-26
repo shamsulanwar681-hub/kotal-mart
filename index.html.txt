@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kotal Mart and Bakers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Kotal Mart and Bakers</h1>
+    <p>Fresh Bakery & Grocery | Daily Deals</p>
+</header>
+
+<section class="banner">
+    <h2>🔥 BIG SALE TODAY 🔥</h2>
+    <p>Up to 50% OFF</p>
+</section>
+
+<section class="products">
+
+    <div class="card">
+        <img src="https://via.placeholder.com/150" alt="Bread">
+        <h3>Bread</h3>
+        <p>Fresh baked bread</p>
+        <span>Rs. 80</span>
+        <a href="https://wa.me/923000000000?text=I want to order Bread" class="btn">Order on WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <img src="https://via.placeholder.com/150" alt="Cake">
+        <h3>Cake</h3>
+        <p>Chocolate cake special</p>
+        <span>Rs. 500</span>
+        <a href="https://wa.me/923000000000?text=I want to order Cake" class="btn">Order on WhatsApp</a>
+    </div>
+
+    <div class="card">
+        <img src="https://via.placeholder.com/150" alt="Biscuits">
+        <h3>Biscuits</h3>
+        <p>Crispy and tasty</p>
+        <span>Rs. 150</span>
+        <a href="https://wa.me/923000000000?text=I want to order Biscuits" class="btn">Order on WhatsApp</a>
+    </div>
+
+</section>
+
+<footer>
+    <p>📞 Contact: 0300-0000000</p>
+    <p>📍 Kotal Mart and Bakers</p>
+</footer>
+
+</body>
+</html>
